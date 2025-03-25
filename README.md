@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQFksqWTqBAjVg/profile-displaybackgroundimage-shrink_350_1400/0/1703701090073?e=1717027200&v=beta&t=4AcWGMUMKuvZxWdnZZ5rSRPdGWhl_fME30RE9iQGxOE" alt="Banner" width="100%" />
+  <img src="my_linkedin_bg.jpeg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm İbrahim Utku Sarıçan 👋</h1>
