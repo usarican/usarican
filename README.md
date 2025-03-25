@@ -32,11 +32,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsarican&theme=default" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usarican&" alt="usarican" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimsarican&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsarican&layout=compact&hide_border=true" alt="Top Languages" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usarican&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usarican&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
 </p>
 
 ---
