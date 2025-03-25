@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm İbrahim Utku Sarıçan 👋</h1>
 
 <p align="center">
-  <b>Android Developer • Kotlin Enthusiast • Firebase Fan</b><br>
+  <b>Android Developer • Kotlin Enthusiast • Mobile Developer Fan </b><br>
   <i>Currently crafting mobile magic at <b>Migros One</b> 🚀</i>
 </p>
 
